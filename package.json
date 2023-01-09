@@ -1,0 +1,29 @@
+{
+  "name": "@gannonh/spark_samples",
+  "version": "1.1.0",
+  "description": "Audio sample files used in Alex Bainter's projects",
+  "main": "src/index.js",
+  "files": [
+    "dist/mp3.json",
+    "dist/ogg.json",
+    "dist/wav.json",
+    "src/*.js",
+    "bin",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gannonh/spark_samples.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gannonh/spark_samples/issues"
+  },
+  "homepage": "https://github.com/gannonh/spark_samples#readme",
+  "bin": {
+    "spark_samples": "bin/serve.js"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
