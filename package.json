@@ -1,7 +1,6 @@
 {
   "name": "@gannonh/spark_samples",
   "version": "1.1.0",
-  "description": "Audio sample files used in Alex Bainter's projects",
   "main": "src/index.js",
   "files": [
     "dist/mp3.json",
